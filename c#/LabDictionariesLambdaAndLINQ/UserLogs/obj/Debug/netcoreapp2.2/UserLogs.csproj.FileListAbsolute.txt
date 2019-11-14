@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.pdb

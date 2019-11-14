@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\obj\Debug\netcoreapp2.2\SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\obj\Debug\netcoreapp2.2\SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\obj\Debug\netcoreapp2.2\SpecialNumber.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\bin\Debug\netcoreapp2.2\SpecialNumber.deps.json
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\bin\Debug\netcoreapp2.2\SpecialNumber.runtimeconfig.json
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\bin\Debug\netcoreapp2.2\SpecialNumber.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\bin\Debug\netcoreapp2.2\SpecialNumber.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\bin\Debug\netcoreapp2.2\SpecialNumber.pdb
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\obj\Debug\netcoreapp2.2\SpecialNumber.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\SpecialNumber\obj\Debug\netcoreapp2.2\SpecialNumber.pdb

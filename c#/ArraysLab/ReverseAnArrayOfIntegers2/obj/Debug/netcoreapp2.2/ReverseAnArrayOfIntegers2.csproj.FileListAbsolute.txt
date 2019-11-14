@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.dll
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.pdb
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.dll
+C:\Users\Hristo\source\repos\ArraysLab\ReverseAnArrayOfIntegers2\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\bin\Debug\netcoreapp2.2\Extract Middle12or3Elements.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\bin\Debug\netcoreapp2.2\Extract Middle12or3Elements.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\bin\Debug\netcoreapp2.2\Extract Middle12or3Elements.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\bin\Debug\netcoreapp2.2\Extract Middle12or3Elements.dll
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\bin\Debug\netcoreapp2.2\Extract Middle12or3Elements.pdb
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\obj\Debug\netcoreapp2.2\Extract Middle12or3Elements.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\obj\Debug\netcoreapp2.2\Extract Middle12or3Elements.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\obj\Debug\netcoreapp2.2\Extract Middle12or3Elements.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\obj\Debug\netcoreapp2.2\Extract Middle12or3Elements.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\obj\Debug\netcoreapp2.2\Extract Middle12or3Elements.dll
+C:\Users\Hristo\source\repos\ArraysLab\Extract Middle12or3Elements\obj\Debug\netcoreapp2.2\Extract Middle12or3Elements.pdb

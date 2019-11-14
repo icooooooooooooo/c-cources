@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.pdb

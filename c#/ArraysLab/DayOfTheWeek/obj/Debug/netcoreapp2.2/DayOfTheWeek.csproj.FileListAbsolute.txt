@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\bin\Debug\netcoreapp2.2\DayOfTheWeek.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\bin\Debug\netcoreapp2.2\DayOfTheWeek.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\bin\Debug\netcoreapp2.2\DayOfTheWeek.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\bin\Debug\netcoreapp2.2\DayOfTheWeek.dll
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\bin\Debug\netcoreapp2.2\DayOfTheWeek.pdb
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\obj\Debug\netcoreapp2.2\DayOfTheWeek.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\obj\Debug\netcoreapp2.2\DayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\obj\Debug\netcoreapp2.2\DayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\obj\Debug\netcoreapp2.2\DayOfTheWeek.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\obj\Debug\netcoreapp2.2\DayOfTheWeek.dll
+C:\Users\Hristo\source\repos\ArraysLab\DayOfTheWeek\obj\Debug\netcoreapp2.2\DayOfTheWeek.pdb

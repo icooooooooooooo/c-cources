@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.2\SplitByWordCasing.deps.json
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.2\SplitByWordCasing.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.2\SplitByWordCasing.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.2\SplitByWordCasing.dll
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.2\SplitByWordCasing.pdb
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.2\SplitByWordCasing.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.2\SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.2\SplitByWordCasing.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.2\SplitByWordCasing.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.2\SplitByWordCasing.dll
+C:\Users\Hristo\source\repos\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.2\SplitByWordCasing.pdb

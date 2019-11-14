@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\bin\Debug\netcoreapp2.2\Snowwhite.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\bin\Debug\netcoreapp2.2\Snowwhite.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\bin\Debug\netcoreapp2.2\Snowwhite.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\bin\Debug\netcoreapp2.2\Snowwhite.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\bin\Debug\netcoreapp2.2\Snowwhite.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\obj\Debug\netcoreapp2.2\Snowwhite.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\obj\Debug\netcoreapp2.2\Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\obj\Debug\netcoreapp2.2\Snowwhite.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\obj\Debug\netcoreapp2.2\Snowwhite.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\obj\Debug\netcoreapp2.2\Snowwhite.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowwhite\obj\Debug\netcoreapp2.2\Snowwhite.pdb

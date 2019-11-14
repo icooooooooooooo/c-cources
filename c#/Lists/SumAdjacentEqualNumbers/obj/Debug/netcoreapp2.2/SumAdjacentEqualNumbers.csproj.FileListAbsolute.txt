@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.deps.json
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.dll
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.pdb
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.dll
+C:\Users\Hristo\source\repos\Lists\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.2\SumAdjacentEqualNumbers.pdb

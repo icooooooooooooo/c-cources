@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.pdb

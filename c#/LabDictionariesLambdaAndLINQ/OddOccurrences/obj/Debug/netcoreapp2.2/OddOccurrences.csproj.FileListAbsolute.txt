@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.pdb

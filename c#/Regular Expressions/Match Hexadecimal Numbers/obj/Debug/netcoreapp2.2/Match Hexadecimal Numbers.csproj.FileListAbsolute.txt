@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.2\Match Hexadecimal Numbers.deps.json
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.2\Match Hexadecimal Numbers.runtimeconfig.json
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.2\Match Hexadecimal Numbers.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.2\Match Hexadecimal Numbers.dll
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.2\Match Hexadecimal Numbers.pdb
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.2\Match Hexadecimal Numbers.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.2\Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.2\Match Hexadecimal Numbers.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.2\Match Hexadecimal Numbers.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.2\Match Hexadecimal Numbers.dll
+C:\Users\Hristo\source\repos\Regular Expressions\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.2\Match Hexadecimal Numbers.pdb

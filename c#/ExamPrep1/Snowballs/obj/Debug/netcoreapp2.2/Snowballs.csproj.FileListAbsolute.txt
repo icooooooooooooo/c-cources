@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\bin\Debug\netcoreapp2.2\Snowballs.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\bin\Debug\netcoreapp2.2\Snowballs.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\bin\Debug\netcoreapp2.2\Snowballs.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\bin\Debug\netcoreapp2.2\Snowballs.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\bin\Debug\netcoreapp2.2\Snowballs.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\obj\Debug\netcoreapp2.2\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\obj\Debug\netcoreapp2.2\Snowballs.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\obj\Debug\netcoreapp2.2\Snowballs.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\obj\Debug\netcoreapp2.2\Snowballs.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowballs\obj\Debug\netcoreapp2.2\Snowballs.pdb

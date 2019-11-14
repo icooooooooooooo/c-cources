@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp2.2\CountNumbers.deps.json
+C:\Users\Hristo\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp2.2\CountNumbers.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp2.2\CountNumbers.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp2.2\CountNumbers.dll
+C:\Users\Hristo\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp2.2\CountNumbers.pdb
+C:\Users\Hristo\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp2.2\CountNumbers.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp2.2\CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp2.2\CountNumbers.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp2.2\CountNumbers.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp2.2\CountNumbers.dll
+C:\Users\Hristo\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp2.2\CountNumbers.pdb

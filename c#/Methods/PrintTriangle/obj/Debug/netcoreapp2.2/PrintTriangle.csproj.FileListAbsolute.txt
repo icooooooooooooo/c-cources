@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\obj\Debug\netcoreapp2.2\PrintTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\obj\Debug\netcoreapp2.2\PrintTriangle.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\obj\Debug\netcoreapp2.2\PrintTriangle.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\bin\Debug\netcoreapp2.2\PrintTriangle.deps.json
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\bin\Debug\netcoreapp2.2\PrintTriangle.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\bin\Debug\netcoreapp2.2\PrintTriangle.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\bin\Debug\netcoreapp2.2\PrintTriangle.dll
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\bin\Debug\netcoreapp2.2\PrintTriangle.pdb
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\obj\Debug\netcoreapp2.2\PrintTriangle.dll
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\obj\Debug\netcoreapp2.2\PrintTriangle.pdb
+C:\Users\Hristo\source\repos\Methods\PrintTriangle\obj\Debug\netcoreapp2.2\PrintTriangle.csprojAssemblyReference.cache

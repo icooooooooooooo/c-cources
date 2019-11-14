@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Methods\PrimeTest\bin\Release\netcoreapp2.2\PrimeTest.deps.json
+C:\Users\Hristo\source\repos\Methods\PrimeTest\bin\Release\netcoreapp2.2\PrimeTest.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\PrimeTest\bin\Release\netcoreapp2.2\PrimeTest.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\PrimeTest\bin\Release\netcoreapp2.2\PrimeTest.dll
+C:\Users\Hristo\source\repos\Methods\PrimeTest\bin\Release\netcoreapp2.2\PrimeTest.pdb
+C:\Users\Hristo\source\repos\Methods\PrimeTest\obj\Release\netcoreapp2.2\PrimeTest.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrimeTest\obj\Release\netcoreapp2.2\PrimeTest.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrimeTest\obj\Release\netcoreapp2.2\PrimeTest.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\PrimeTest\obj\Release\netcoreapp2.2\PrimeTest.dll
+C:\Users\Hristo\source\repos\Methods\PrimeTest\obj\Release\netcoreapp2.2\PrimeTest.pdb

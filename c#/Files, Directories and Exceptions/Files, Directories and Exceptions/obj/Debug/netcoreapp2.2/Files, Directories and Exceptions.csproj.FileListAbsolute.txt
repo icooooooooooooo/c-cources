@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\netcoreapp2.2\Files, Directories and Exceptions.deps.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\netcoreapp2.2\Files, Directories and Exceptions.runtimeconfig.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\netcoreapp2.2\Files, Directories and Exceptions.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\netcoreapp2.2\Files, Directories and Exceptions.dll
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\bin\Debug\netcoreapp2.2\Files, Directories and Exceptions.pdb
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\netcoreapp2.2\Files, Directories and Exceptions.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\netcoreapp2.2\Files, Directories and Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\netcoreapp2.2\Files, Directories and Exceptions.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\netcoreapp2.2\Files, Directories and Exceptions.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\netcoreapp2.2\Files, Directories and Exceptions.dll
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Files, Directories and Exceptions\obj\Debug\netcoreapp2.2\Files, Directories and Exceptions.pdb

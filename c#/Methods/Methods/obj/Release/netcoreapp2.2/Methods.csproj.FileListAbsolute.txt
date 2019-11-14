@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\Methods\bin\Release\netcoreapp2.2\Methods.deps.json
+C:\Users\Hristo\source\repos\Methods\Methods\bin\Release\netcoreapp2.2\Methods.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\Methods\bin\Release\netcoreapp2.2\Methods.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\Methods\bin\Release\netcoreapp2.2\Methods.dll
+C:\Users\Hristo\source\repos\Methods\Methods\bin\Release\netcoreapp2.2\Methods.pdb
+C:\Users\Hristo\source\repos\Methods\Methods\obj\Release\netcoreapp2.2\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\Methods\obj\Release\netcoreapp2.2\Methods.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\Methods\obj\Release\netcoreapp2.2\Methods.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\Methods\obj\Release\netcoreapp2.2\Methods.dll
+C:\Users\Hristo\source\repos\Methods\Methods\obj\Release\netcoreapp2.2\Methods.pdb
+C:\Users\Hristo\source\repos\Methods\Methods\obj\Release\netcoreapp2.2\Methods.csprojAssemblyReference.cache

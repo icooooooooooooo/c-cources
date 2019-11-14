@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\obj\Debug\netcoreapp2.2\Elevator.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\obj\Debug\netcoreapp2.2\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\bin\Debug\netcoreapp2.2\Elevator.deps.json
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.json
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\bin\Debug\netcoreapp2.2\Elevator.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\bin\Debug\netcoreapp2.2\Elevator.pdb
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\obj\Debug\netcoreapp2.2\Elevator.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\Elevator\obj\Debug\netcoreapp2.2\Elevator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\bin\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.deps.json
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\bin\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\bin\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\bin\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.dll
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\bin\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.pdb
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\obj\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\obj\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\obj\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\obj\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.dll
+C:\Users\Hristo\source\repos\Methods\EnglishNameOfTheLastDigit\obj\Release\netcoreapp2.2\EnglishNameOfTheLastDigit.pdb

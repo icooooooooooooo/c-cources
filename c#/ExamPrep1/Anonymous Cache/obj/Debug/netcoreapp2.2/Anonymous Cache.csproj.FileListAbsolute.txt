@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\bin\Debug\netcoreapp2.2\Anonymous Cache.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\bin\Debug\netcoreapp2.2\Anonymous Cache.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\bin\Debug\netcoreapp2.2\Anonymous Cache.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\bin\Debug\netcoreapp2.2\Anonymous Cache.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\bin\Debug\netcoreapp2.2\Anonymous Cache.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\obj\Debug\netcoreapp2.2\Anonymous Cache.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\obj\Debug\netcoreapp2.2\Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\obj\Debug\netcoreapp2.2\Anonymous Cache.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\obj\Debug\netcoreapp2.2\Anonymous Cache.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\obj\Debug\netcoreapp2.2\Anonymous Cache.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Cache\obj\Debug\netcoreapp2.2\Anonymous Cache.pdb

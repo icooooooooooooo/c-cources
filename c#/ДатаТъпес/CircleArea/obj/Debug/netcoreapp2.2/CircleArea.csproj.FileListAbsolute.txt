@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.deps.json
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.runtimeconfig.json
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.pdb
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\bin\Debug\netcoreapp2.2\AdvertisementMessage.deps.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\bin\Debug\netcoreapp2.2\AdvertisementMessage.runtimeconfig.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\bin\Debug\netcoreapp2.2\AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\bin\Debug\netcoreapp2.2\AdvertisementMessage.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\bin\Debug\netcoreapp2.2\AdvertisementMessage.pdb
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\obj\Debug\netcoreapp2.2\AdvertisementMessage.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\obj\Debug\netcoreapp2.2\AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\obj\Debug\netcoreapp2.2\AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\obj\Debug\netcoreapp2.2\AdvertisementMessage.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\obj\Debug\netcoreapp2.2\AdvertisementMessage.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AdvertisementMessage\obj\Debug\netcoreapp2.2\AdvertisementMessage.pdb

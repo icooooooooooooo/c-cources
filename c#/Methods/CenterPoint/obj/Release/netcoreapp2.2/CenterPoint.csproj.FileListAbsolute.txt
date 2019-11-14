@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\CenterPoint\bin\Release\netcoreapp2.2\CenterPoint.deps.json
+C:\Users\Hristo\source\repos\Methods\CenterPoint\bin\Release\netcoreapp2.2\CenterPoint.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\CenterPoint\bin\Release\netcoreapp2.2\CenterPoint.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\CenterPoint\bin\Release\netcoreapp2.2\CenterPoint.dll
+C:\Users\Hristo\source\repos\Methods\CenterPoint\bin\Release\netcoreapp2.2\CenterPoint.pdb
+C:\Users\Hristo\source\repos\Methods\CenterPoint\obj\Release\netcoreapp2.2\CenterPoint.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Methods\CenterPoint\obj\Release\netcoreapp2.2\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\CenterPoint\obj\Release\netcoreapp2.2\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\CenterPoint\obj\Release\netcoreapp2.2\CenterPoint.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\CenterPoint\obj\Release\netcoreapp2.2\CenterPoint.dll
+C:\Users\Hristo\source\repos\Methods\CenterPoint\obj\Release\netcoreapp2.2\CenterPoint.pdb

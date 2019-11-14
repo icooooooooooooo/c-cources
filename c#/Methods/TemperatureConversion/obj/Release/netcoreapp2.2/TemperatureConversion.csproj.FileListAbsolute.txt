@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\bin\Release\netcoreapp2.2\TemperatureConversion.deps.json
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\bin\Release\netcoreapp2.2\TemperatureConversion.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\bin\Release\netcoreapp2.2\TemperatureConversion.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\bin\Release\netcoreapp2.2\TemperatureConversion.dll
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\bin\Release\netcoreapp2.2\TemperatureConversion.pdb
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\obj\Release\netcoreapp2.2\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\obj\Release\netcoreapp2.2\TemperatureConversion.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\obj\Release\netcoreapp2.2\TemperatureConversion.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\obj\Release\netcoreapp2.2\TemperatureConversion.dll
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\obj\Release\netcoreapp2.2\TemperatureConversion.pdb
+C:\Users\Hristo\source\repos\Methods\TemperatureConversion\obj\Release\netcoreapp2.2\TemperatureConversion.csprojAssemblyReference.cache

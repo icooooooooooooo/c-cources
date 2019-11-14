@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\MathPower\bin\Release\netcoreapp2.2\MathPower.deps.json
+C:\Users\Hristo\source\repos\Methods\MathPower\bin\Release\netcoreapp2.2\MathPower.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\MathPower\bin\Release\netcoreapp2.2\MathPower.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\MathPower\bin\Release\netcoreapp2.2\MathPower.dll
+C:\Users\Hristo\source\repos\Methods\MathPower\bin\Release\netcoreapp2.2\MathPower.pdb
+C:\Users\Hristo\source\repos\Methods\MathPower\obj\Release\netcoreapp2.2\MathPower.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Methods\MathPower\obj\Release\netcoreapp2.2\MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\MathPower\obj\Release\netcoreapp2.2\MathPower.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\MathPower\obj\Release\netcoreapp2.2\MathPower.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\MathPower\obj\Release\netcoreapp2.2\MathPower.dll
+C:\Users\Hristo\source\repos\Methods\MathPower\obj\Release\netcoreapp2.2\MathPower.pdb

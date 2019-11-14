@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\bin\Debug\netcoreapp2.2\Folder Size.deps.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\bin\Debug\netcoreapp2.2\Folder Size.runtimeconfig.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\bin\Debug\netcoreapp2.2\Folder Size.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\bin\Debug\netcoreapp2.2\Folder Size.dll
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\bin\Debug\netcoreapp2.2\Folder Size.pdb
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\obj\Debug\netcoreapp2.2\Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\obj\Debug\netcoreapp2.2\Folder Size.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\obj\Debug\netcoreapp2.2\Folder Size.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\obj\Debug\netcoreapp2.2\Folder Size.dll
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\obj\Debug\netcoreapp2.2\Folder Size.pdb
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Folder Size\obj\Debug\netcoreapp2.2\Folder Size.csprojAssemblyReference.cache

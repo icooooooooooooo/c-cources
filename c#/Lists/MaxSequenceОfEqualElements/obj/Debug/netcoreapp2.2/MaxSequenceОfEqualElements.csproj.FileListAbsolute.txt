@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.deps.json
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.dll
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.pdb
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.dll
+C:\Users\Hristo\source\repos\Lists\MaxSequenceОfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceОfEqualElements.pdb

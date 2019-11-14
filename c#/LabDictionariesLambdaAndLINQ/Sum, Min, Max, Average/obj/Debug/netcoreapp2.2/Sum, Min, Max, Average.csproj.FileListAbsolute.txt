@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\Sum, Min, Max, Average.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\Sum, Min, Max, Average.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\Sum, Min, Max, Average.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\Sum, Min, Max, Average.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\bin\Debug\netcoreapp2.2\Sum, Min, Max, Average.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\Sum, Min, Max, Average.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\Sum, Min, Max, Average.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\Sum, Min, Max, Average.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\Sum, Min, Max, Average.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Sum, Min, Max, Average\obj\Debug\netcoreapp2.2\Sum, Min, Max, Average.pdb

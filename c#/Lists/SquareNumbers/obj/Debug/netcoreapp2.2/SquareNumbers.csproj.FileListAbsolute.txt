@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp2.2\SquareNumbers.deps.json
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp2.2\SquareNumbers.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp2.2\SquareNumbers.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp2.2\SquareNumbers.dll
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp2.2\SquareNumbers.pdb
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp2.2\SquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp2.2\SquareNumbers.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp2.2\SquareNumbers.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp2.2\SquareNumbers.dll
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp2.2\SquareNumbers.pdb
+C:\Users\Hristo\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp2.2\SquareNumbers.csprojAssemblyReference.cache

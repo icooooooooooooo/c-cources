@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\obj\Release\netcoreapp2.2\PrimesInGivenRange.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\obj\Release\netcoreapp2.2\PrimesInGivenRange.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\obj\Release\netcoreapp2.2\PrimesInGivenRange.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\bin\Release\netcoreapp2.2\PrimesInGivenRange.deps.json
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\bin\Release\netcoreapp2.2\PrimesInGivenRange.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\bin\Release\netcoreapp2.2\PrimesInGivenRange.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\bin\Release\netcoreapp2.2\PrimesInGivenRange.dll
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\bin\Release\netcoreapp2.2\PrimesInGivenRange.pdb
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\obj\Release\netcoreapp2.2\PrimesInGivenRange.dll
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\obj\Release\netcoreapp2.2\PrimesInGivenRange.pdb
+C:\Users\Hristo\source\repos\Methods\PrimesInGivenRange\obj\Release\netcoreapp2.2\PrimesInGivenRange.csprojAssemblyReference.cache

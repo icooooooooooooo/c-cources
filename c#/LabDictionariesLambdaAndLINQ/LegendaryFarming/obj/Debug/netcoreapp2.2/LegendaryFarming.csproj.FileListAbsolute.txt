@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.pdb

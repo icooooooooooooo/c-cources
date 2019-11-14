@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\bin\Debug\netcoreapp2.2\FoldAndSum.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\bin\Debug\netcoreapp2.2\FoldAndSum.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\bin\Debug\netcoreapp2.2\FoldAndSum.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\bin\Debug\netcoreapp2.2\FoldAndSum.dll
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\bin\Debug\netcoreapp2.2\FoldAndSum.pdb
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\obj\Debug\netcoreapp2.2\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\obj\Debug\netcoreapp2.2\FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\obj\Debug\netcoreapp2.2\FoldAndSum.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\obj\Debug\netcoreapp2.2\FoldAndSum.dll
+C:\Users\Hristo\source\repos\ArraysLab\FoldAndSum\obj\Debug\netcoreapp2.2\FoldAndSum.pdb

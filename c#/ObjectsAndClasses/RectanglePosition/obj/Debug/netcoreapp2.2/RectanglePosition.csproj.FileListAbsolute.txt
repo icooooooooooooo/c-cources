@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\bin\Debug\netcoreapp2.2\RectanglePosition.deps.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\bin\Debug\netcoreapp2.2\RectanglePosition.runtimeconfig.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\bin\Debug\netcoreapp2.2\RectanglePosition.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\bin\Debug\netcoreapp2.2\RectanglePosition.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\bin\Debug\netcoreapp2.2\RectanglePosition.pdb
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\obj\Debug\netcoreapp2.2\RectanglePosition.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\obj\Debug\netcoreapp2.2\RectanglePosition.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\obj\Debug\netcoreapp2.2\RectanglePosition.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\obj\Debug\netcoreapp2.2\RectanglePosition.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\obj\Debug\netcoreapp2.2\RectanglePosition.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\RectanglePosition\obj\Debug\netcoreapp2.2\RectanglePosition.pdb

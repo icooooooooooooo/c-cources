@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\bin\Debug\netcoreapp2.2\Anonymous Threat.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\bin\Debug\netcoreapp2.2\Anonymous Threat.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\bin\Debug\netcoreapp2.2\Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\bin\Debug\netcoreapp2.2\Anonymous Threat.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\bin\Debug\netcoreapp2.2\Anonymous Threat.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\obj\Debug\netcoreapp2.2\Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\obj\Debug\netcoreapp2.2\Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\obj\Debug\netcoreapp2.2\Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\obj\Debug\netcoreapp2.2\Anonymous Threat.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\obj\Debug\netcoreapp2.2\Anonymous Threat.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Threat\obj\Debug\netcoreapp2.2\Anonymous Threat.pdb

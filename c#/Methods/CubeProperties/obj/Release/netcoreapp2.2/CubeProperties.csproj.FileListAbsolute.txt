@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\CubeProperties\bin\Release\netcoreapp2.2\CubeProperties.deps.json
+C:\Users\Hristo\source\repos\Methods\CubeProperties\bin\Release\netcoreapp2.2\CubeProperties.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\CubeProperties\bin\Release\netcoreapp2.2\CubeProperties.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\CubeProperties\bin\Release\netcoreapp2.2\CubeProperties.dll
+C:\Users\Hristo\source\repos\Methods\CubeProperties\bin\Release\netcoreapp2.2\CubeProperties.pdb
+C:\Users\Hristo\source\repos\Methods\CubeProperties\obj\Release\netcoreapp2.2\CubeProperties.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Methods\CubeProperties\obj\Release\netcoreapp2.2\CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\CubeProperties\obj\Release\netcoreapp2.2\CubeProperties.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\CubeProperties\obj\Release\netcoreapp2.2\CubeProperties.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\CubeProperties\obj\Release\netcoreapp2.2\CubeProperties.dll
+C:\Users\Hristo\source\repos\Methods\CubeProperties\obj\Release\netcoreapp2.2\CubeProperties.pdb

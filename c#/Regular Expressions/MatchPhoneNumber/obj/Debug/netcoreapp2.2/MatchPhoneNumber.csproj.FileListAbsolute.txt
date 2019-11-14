@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.deps.json
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.runtimeconfig.json
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.dll
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.pdb
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.dll
+C:\Users\Hristo\source\repos\Regular Expressions\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.pdb

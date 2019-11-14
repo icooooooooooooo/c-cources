@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp2.2\Strings and Text Processing.deps.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp2.2\Strings and Text Processing.runtimeconfig.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp2.2\Strings and Text Processing.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp2.2\Strings and Text Processing.dll
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp2.2\Strings and Text Processing.pdb
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp2.2\Strings and Text Processing.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp2.2\Strings and Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp2.2\Strings and Text Processing.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp2.2\Strings and Text Processing.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp2.2\Strings and Text Processing.dll
+C:\Users\Hristo\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp2.2\Strings and Text Processing.pdb

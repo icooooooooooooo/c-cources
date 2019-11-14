@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\netcoreapp2.2\DistanceBetweenPoints.deps.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\netcoreapp2.2\DistanceBetweenPoints.runtimeconfig.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\netcoreapp2.2\DistanceBetweenPoints.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\netcoreapp2.2\DistanceBetweenPoints.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\netcoreapp2.2\DistanceBetweenPoints.pdb
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\netcoreapp2.2\DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\netcoreapp2.2\DistanceBetweenPoints.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\netcoreapp2.2\DistanceBetweenPoints.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\netcoreapp2.2\DistanceBetweenPoints.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\netcoreapp2.2\DistanceBetweenPoints.pdb
+C:\Users\Hristo\source\repos\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\netcoreapp2.2\DistanceBetweenPoints.csprojAssemblyReference.cache

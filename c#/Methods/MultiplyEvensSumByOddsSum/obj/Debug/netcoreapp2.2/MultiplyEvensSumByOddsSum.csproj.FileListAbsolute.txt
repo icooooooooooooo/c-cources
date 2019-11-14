@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\bin\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.deps.json
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\bin\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\bin\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\bin\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.dll
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\bin\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.pdb
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\obj\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\obj\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\obj\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\obj\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\obj\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.dll
+C:\Users\Hristo\source\repos\Methods\MultiplyEvensSumByOddsSum\obj\Debug\netcoreapp2.2\MultiplyEvensSumByOddsSum.pdb

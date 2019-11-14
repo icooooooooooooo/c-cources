@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\bin\Debug\netcoreapp2.2\Anonymous Downsite.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\bin\Debug\netcoreapp2.2\Anonymous Downsite.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\bin\Debug\netcoreapp2.2\Anonymous Downsite.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\bin\Debug\netcoreapp2.2\Anonymous Downsite.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\bin\Debug\netcoreapp2.2\Anonymous Downsite.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\obj\Debug\netcoreapp2.2\Anonymous Downsite.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\obj\Debug\netcoreapp2.2\Anonymous Downsite.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\obj\Debug\netcoreapp2.2\Anonymous Downsite.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\obj\Debug\netcoreapp2.2\Anonymous Downsite.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\obj\Debug\netcoreapp2.2\Anonymous Downsite.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Downsite\obj\Debug\netcoreapp2.2\Anonymous Downsite.pdb

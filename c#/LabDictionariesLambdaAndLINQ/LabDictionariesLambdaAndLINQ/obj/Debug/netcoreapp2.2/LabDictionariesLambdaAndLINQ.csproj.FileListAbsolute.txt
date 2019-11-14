@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\bin\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\bin\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\bin\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\bin\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\bin\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\obj\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\obj\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\obj\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\obj\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\obj\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\LabDictionariesLambdaAndLINQ\obj\Debug\netcoreapp2.2\LabDictionariesLambdaAndLINQ.pdb

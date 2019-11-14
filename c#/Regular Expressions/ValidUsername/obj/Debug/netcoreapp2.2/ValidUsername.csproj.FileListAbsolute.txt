@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\bin\Debug\netcoreapp2.2\ValidUsername.deps.json
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\bin\Debug\netcoreapp2.2\ValidUsername.runtimeconfig.json
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\bin\Debug\netcoreapp2.2\ValidUsername.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\bin\Debug\netcoreapp2.2\ValidUsername.dll
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\bin\Debug\netcoreapp2.2\ValidUsername.pdb
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\obj\Debug\netcoreapp2.2\ValidUsername.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\obj\Debug\netcoreapp2.2\ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\obj\Debug\netcoreapp2.2\ValidUsername.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\obj\Debug\netcoreapp2.2\ValidUsername.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\obj\Debug\netcoreapp2.2\ValidUsername.dll
+C:\Users\Hristo\source\repos\Regular Expressions\ValidUsername\obj\Debug\netcoreapp2.2\ValidUsername.pdb

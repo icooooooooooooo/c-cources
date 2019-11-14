@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\bin\Debug\netcoreapp2.2\Merge Files.deps.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\bin\Debug\netcoreapp2.2\Merge Files.runtimeconfig.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\bin\Debug\netcoreapp2.2\Merge Files.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\bin\Debug\netcoreapp2.2\Merge Files.dll
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\bin\Debug\netcoreapp2.2\Merge Files.pdb
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\obj\Debug\netcoreapp2.2\Merge Files.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\obj\Debug\netcoreapp2.2\Merge Files.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\obj\Debug\netcoreapp2.2\Merge Files.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\obj\Debug\netcoreapp2.2\Merge Files.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\obj\Debug\netcoreapp2.2\Merge Files.dll
+C:\Users\Hristo\source\repos\Files, Directories and Exceptions\Merge Files\obj\Debug\netcoreapp2.2\Merge Files.pdb

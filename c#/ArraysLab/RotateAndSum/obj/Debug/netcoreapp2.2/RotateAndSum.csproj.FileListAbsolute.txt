@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.dll
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.pdb
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.dll
+C:\Users\Hristo\source\repos\ArraysLab\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.pdb

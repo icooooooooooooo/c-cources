@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\bin\Debug\netcoreapp2.2\LargestCommonEnd.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\bin\Debug\netcoreapp2.2\LargestCommonEnd.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\bin\Debug\netcoreapp2.2\LargestCommonEnd.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\bin\Debug\netcoreapp2.2\LargestCommonEnd.dll
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\bin\Debug\netcoreapp2.2\LargestCommonEnd.pdb
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\obj\Debug\netcoreapp2.2\LargestCommonEnd.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\obj\Debug\netcoreapp2.2\LargestCommonEnd.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\obj\Debug\netcoreapp2.2\LargestCommonEnd.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\obj\Debug\netcoreapp2.2\LargestCommonEnd.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\obj\Debug\netcoreapp2.2\LargestCommonEnd.dll
+C:\Users\Hristo\source\repos\ArraysLab\LargestCommonEnd\obj\Debug\netcoreapp2.2\LargestCommonEnd.pdb

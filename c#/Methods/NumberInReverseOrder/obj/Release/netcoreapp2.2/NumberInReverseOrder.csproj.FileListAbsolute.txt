@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\bin\Release\netcoreapp2.2\NumberInReverseOrder.deps.json
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\bin\Release\netcoreapp2.2\NumberInReverseOrder.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\bin\Release\netcoreapp2.2\NumberInReverseOrder.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\bin\Release\netcoreapp2.2\NumberInReverseOrder.dll
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\bin\Release\netcoreapp2.2\NumberInReverseOrder.pdb
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\obj\Release\netcoreapp2.2\NumberInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\obj\Release\netcoreapp2.2\NumberInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\obj\Release\netcoreapp2.2\NumberInReverseOrder.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\obj\Release\netcoreapp2.2\NumberInReverseOrder.dll
+C:\Users\Hristo\source\repos\Methods\NumberInReverseOrder\obj\Release\netcoreapp2.2\NumberInReverseOrder.pdb

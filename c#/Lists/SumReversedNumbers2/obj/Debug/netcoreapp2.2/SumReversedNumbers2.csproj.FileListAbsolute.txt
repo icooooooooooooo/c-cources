@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\bin\Debug\netcoreapp2.2\SumReversedNumbers2.deps.json
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\bin\Debug\netcoreapp2.2\SumReversedNumbers2.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\bin\Debug\netcoreapp2.2\SumReversedNumbers2.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\bin\Debug\netcoreapp2.2\SumReversedNumbers2.dll
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\bin\Debug\netcoreapp2.2\SumReversedNumbers2.pdb
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\obj\Debug\netcoreapp2.2\SumReversedNumbers2.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\obj\Debug\netcoreapp2.2\SumReversedNumbers2.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\obj\Debug\netcoreapp2.2\SumReversedNumbers2.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\obj\Debug\netcoreapp2.2\SumReversedNumbers2.dll
+C:\Users\Hristo\source\repos\Lists\SumReversedNumbers2\obj\Debug\netcoreapp2.2\SumReversedNumbers2.pdb

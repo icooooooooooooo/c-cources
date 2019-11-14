@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\netcoreapp2.2\Count Substring Occurrences.deps.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\netcoreapp2.2\Count Substring Occurrences.runtimeconfig.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\netcoreapp2.2\Count Substring Occurrences.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\netcoreapp2.2\Count Substring Occurrences.dll
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\netcoreapp2.2\Count Substring Occurrences.pdb
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\netcoreapp2.2\Count Substring Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\netcoreapp2.2\Count Substring Occurrences.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\netcoreapp2.2\Count Substring Occurrences.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\netcoreapp2.2\Count Substring Occurrences.dll
+C:\Users\Hristo\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\netcoreapp2.2\Count Substring Occurrences.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\bin\Release\netcoreapp2.2\DrawAFilledSquare.deps.json
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\bin\Release\netcoreapp2.2\DrawAFilledSquare.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\bin\Release\netcoreapp2.2\DrawAFilledSquare.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\bin\Release\netcoreapp2.2\DrawAFilledSquare.dll
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\bin\Release\netcoreapp2.2\DrawAFilledSquare.pdb
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\obj\Release\netcoreapp2.2\DrawAFilledSquare.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\obj\Release\netcoreapp2.2\DrawAFilledSquare.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\obj\Release\netcoreapp2.2\DrawAFilledSquare.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\obj\Release\netcoreapp2.2\DrawAFilledSquare.dll
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\obj\Release\netcoreapp2.2\DrawAFilledSquare.pdb
+C:\Users\Hristo\source\repos\Methods\DrawAFilledSquare\obj\Release\netcoreapp2.2\DrawAFilledSquare.csprojAssemblyReference.cache

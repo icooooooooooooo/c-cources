@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\bin\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).deps.json
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\bin\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\bin\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\bin\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).dll
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\bin\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).pdb
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\obj\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\obj\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\obj\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\obj\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\obj\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).dll
+C:\Users\Hristo\source\repos\Lists\LongestIncreasingSubsequence(LIS)\obj\Debug\netcoreapp2.2\LongestIncreasingSubsequence(LIS).pdb

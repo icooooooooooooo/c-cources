@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.deps.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.runtimeconfig.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.dll
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.pdb
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.dll
+C:\Users\Hristo\source\repos\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.2\Convert from Base-10 to Base-N.pdb

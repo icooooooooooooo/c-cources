@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\AppendLists\bin\Debug\netcoreapp2.2\AppendLists.deps.json
+C:\Users\Hristo\source\repos\Lists\AppendLists\bin\Debug\netcoreapp2.2\AppendLists.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\AppendLists\bin\Debug\netcoreapp2.2\AppendLists.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\AppendLists\bin\Debug\netcoreapp2.2\AppendLists.dll
+C:\Users\Hristo\source\repos\Lists\AppendLists\bin\Debug\netcoreapp2.2\AppendLists.pdb
+C:\Users\Hristo\source\repos\Lists\AppendLists\obj\Debug\netcoreapp2.2\AppendLists.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\AppendLists\obj\Debug\netcoreapp2.2\AppendLists.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\AppendLists\obj\Debug\netcoreapp2.2\AppendLists.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\AppendLists\obj\Debug\netcoreapp2.2\AppendLists.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\AppendLists\obj\Debug\netcoreapp2.2\AppendLists.dll
+C:\Users\Hristo\source\repos\Lists\AppendLists\obj\Debug\netcoreapp2.2\AppendLists.pdb

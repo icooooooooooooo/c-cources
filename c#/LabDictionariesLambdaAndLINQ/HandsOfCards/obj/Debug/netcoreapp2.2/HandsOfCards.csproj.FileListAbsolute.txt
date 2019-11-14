@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp2.2\HandsOfCards.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp2.2\HandsOfCards.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp2.2\HandsOfCards.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp2.2\HandsOfCards.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp2.2\HandsOfCards.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp2.2\HandsOfCards.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp2.2\HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp2.2\HandsOfCards.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp2.2\HandsOfCards.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp2.2\HandsOfCards.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp2.2\HandsOfCards.pdb

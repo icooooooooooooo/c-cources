@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\obj\Debug\netcoreapp2.2\Sum Arrays.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\obj\Debug\netcoreapp2.2\Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\obj\Debug\netcoreapp2.2\Sum Arrays.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\obj\Debug\netcoreapp2.2\Sum Arrays.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\bin\Debug\netcoreapp2.2\Sum Arrays.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\bin\Debug\netcoreapp2.2\Sum Arrays.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\bin\Debug\netcoreapp2.2\Sum Arrays.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\bin\Debug\netcoreapp2.2\Sum Arrays.dll
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\bin\Debug\netcoreapp2.2\Sum Arrays.pdb
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\obj\Debug\netcoreapp2.2\Sum Arrays.dll
+C:\Users\Hristo\source\repos\ArraysLab\Sum Arrays\obj\Debug\netcoreapp2.2\Sum Arrays.pdb

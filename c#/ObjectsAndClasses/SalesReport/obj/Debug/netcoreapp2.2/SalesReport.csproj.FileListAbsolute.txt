@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.2\SalesReport.deps.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.2\SalesReport.runtimeconfig.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.2\SalesReport.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.2\SalesReport.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.2\SalesReport.pdb
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.2\SalesReport.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.2\SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.2\SalesReport.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.2\SalesReport.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.2\SalesReport.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.2\SalesReport.pdb

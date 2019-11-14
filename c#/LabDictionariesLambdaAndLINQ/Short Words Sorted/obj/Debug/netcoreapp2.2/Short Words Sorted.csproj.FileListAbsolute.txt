@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\bin\Debug\netcoreapp2.2\Short Words Sorted.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\bin\Debug\netcoreapp2.2\Short Words Sorted.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\bin\Debug\netcoreapp2.2\Short Words Sorted.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\bin\Debug\netcoreapp2.2\Short Words Sorted.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\bin\Debug\netcoreapp2.2\Short Words Sorted.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\obj\Debug\netcoreapp2.2\Short Words Sorted.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\obj\Debug\netcoreapp2.2\Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\obj\Debug\netcoreapp2.2\Short Words Sorted.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\obj\Debug\netcoreapp2.2\Short Words Sorted.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\obj\Debug\netcoreapp2.2\Short Words Sorted.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Short Words Sorted\obj\Debug\netcoreapp2.2\Short Words Sorted.pdb

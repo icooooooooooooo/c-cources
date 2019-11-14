@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\bin\Debug\netcoreapp2.2\Anonymous Vox.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\bin\Debug\netcoreapp2.2\Anonymous Vox.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\bin\Debug\netcoreapp2.2\Anonymous Vox.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\bin\Debug\netcoreapp2.2\Anonymous Vox.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\bin\Debug\netcoreapp2.2\Anonymous Vox.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\obj\Debug\netcoreapp2.2\Anonymous Vox.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\obj\Debug\netcoreapp2.2\Anonymous Vox.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\obj\Debug\netcoreapp2.2\Anonymous Vox.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\obj\Debug\netcoreapp2.2\Anonymous Vox.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\obj\Debug\netcoreapp2.2\Anonymous Vox.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Anonymous Vox\obj\Debug\netcoreapp2.2\Anonymous Vox.pdb

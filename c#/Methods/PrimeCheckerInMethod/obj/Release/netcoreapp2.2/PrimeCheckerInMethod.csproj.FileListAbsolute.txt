@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\bin\Release\netcoreapp2.2\PrimeCheckerInMethod.deps.json
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\bin\Release\netcoreapp2.2\PrimeCheckerInMethod.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\bin\Release\netcoreapp2.2\PrimeCheckerInMethod.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\bin\Release\netcoreapp2.2\PrimeCheckerInMethod.dll
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\bin\Release\netcoreapp2.2\PrimeCheckerInMethod.pdb
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\obj\Release\netcoreapp2.2\PrimeCheckerInMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\obj\Release\netcoreapp2.2\PrimeCheckerInMethod.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\obj\Release\netcoreapp2.2\PrimeCheckerInMethod.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\obj\Release\netcoreapp2.2\PrimeCheckerInMethod.dll
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\obj\Release\netcoreapp2.2\PrimeCheckerInMethod.pdb
+C:\Users\Hristo\source\repos\Methods\PrimeCheckerInMethod\obj\Release\netcoreapp2.2\PrimeCheckerInMethod.csprojAssemblyReference.cache

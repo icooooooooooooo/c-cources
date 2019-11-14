@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\bin\Debug\netcoreapp2.2\Regexmon.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\bin\Debug\netcoreapp2.2\Regexmon.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\bin\Debug\netcoreapp2.2\Regexmon.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\bin\Debug\netcoreapp2.2\Regexmon.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\bin\Debug\netcoreapp2.2\Regexmon.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\obj\Debug\netcoreapp2.2\Regexmon.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\obj\Debug\netcoreapp2.2\Regexmon.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\obj\Debug\netcoreapp2.2\Regexmon.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\obj\Debug\netcoreapp2.2\Regexmon.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\obj\Debug\netcoreapp2.2\Regexmon.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Regexmon\obj\Debug\netcoreapp2.2\Regexmon.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\obj\Debug\netcoreapp2.2\BookLibrary.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\obj\Debug\netcoreapp2.2\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\obj\Debug\netcoreapp2.2\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\obj\Debug\netcoreapp2.2\BookLibrary.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\bin\Debug\netcoreapp2.2\BookLibrary.deps.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\bin\Debug\netcoreapp2.2\BookLibrary.runtimeconfig.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\bin\Debug\netcoreapp2.2\BookLibrary.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\bin\Debug\netcoreapp2.2\BookLibrary.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\bin\Debug\netcoreapp2.2\BookLibrary.pdb
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\obj\Debug\netcoreapp2.2\BookLibrary.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\BookLibrary\obj\Debug\netcoreapp2.2\BookLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\bin\Debug\netcoreapp2.2\IndexOfLetters.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\bin\Debug\netcoreapp2.2\IndexOfLetters.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\bin\Debug\netcoreapp2.2\IndexOfLetters.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\bin\Debug\netcoreapp2.2\IndexOfLetters.dll
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\bin\Debug\netcoreapp2.2\IndexOfLetters.pdb
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\obj\Debug\netcoreapp2.2\IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\obj\Debug\netcoreapp2.2\IndexOfLetters.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\obj\Debug\netcoreapp2.2\IndexOfLetters.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\obj\Debug\netcoreapp2.2\IndexOfLetters.dll
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\obj\Debug\netcoreapp2.2\IndexOfLetters.pdb
+C:\Users\Hristo\source\repos\ArraysLab\IndexOfLetters\obj\Debug\netcoreapp2.2\IndexOfLetters.csprojAssemblyReference.cache

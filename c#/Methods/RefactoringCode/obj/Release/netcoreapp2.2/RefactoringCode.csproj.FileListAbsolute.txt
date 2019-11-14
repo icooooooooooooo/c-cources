@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\bin\Release\netcoreapp2.2\RefactoringCode.deps.json
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\bin\Release\netcoreapp2.2\RefactoringCode.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\bin\Release\netcoreapp2.2\RefactoringCode.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\bin\Release\netcoreapp2.2\RefactoringCode.dll
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\bin\Release\netcoreapp2.2\RefactoringCode.pdb
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\obj\Release\netcoreapp2.2\RefactoringCode.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\obj\Release\netcoreapp2.2\RefactoringCode.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\obj\Release\netcoreapp2.2\RefactoringCode.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\obj\Release\netcoreapp2.2\RefactoringCode.dll
+C:\Users\Hristo\source\repos\Methods\RefactoringCode\obj\Release\netcoreapp2.2\RefactoringCode.pdb

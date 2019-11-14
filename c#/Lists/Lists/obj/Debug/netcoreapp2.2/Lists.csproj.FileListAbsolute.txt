@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\Lists\bin\Debug\netcoreapp2.2\Lists.deps.json
+C:\Users\Hristo\source\repos\Lists\Lists\bin\Debug\netcoreapp2.2\Lists.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\Lists\bin\Debug\netcoreapp2.2\Lists.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\Lists\bin\Debug\netcoreapp2.2\Lists.dll
+C:\Users\Hristo\source\repos\Lists\Lists\bin\Debug\netcoreapp2.2\Lists.pdb
+C:\Users\Hristo\source\repos\Lists\Lists\obj\Debug\netcoreapp2.2\Lists.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\Lists\obj\Debug\netcoreapp2.2\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\Lists\obj\Debug\netcoreapp2.2\Lists.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\Lists\obj\Debug\netcoreapp2.2\Lists.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\Lists\obj\Debug\netcoreapp2.2\Lists.dll
+C:\Users\Hristo\source\repos\Lists\Lists\obj\Debug\netcoreapp2.2\Lists.pdb

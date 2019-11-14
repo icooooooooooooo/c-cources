@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\bin\Debug\netcoreapp2.2\Snowmen.deps.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\bin\Debug\netcoreapp2.2\Snowmen.runtimeconfig.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\bin\Debug\netcoreapp2.2\Snowmen.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\bin\Debug\netcoreapp2.2\Snowmen.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\bin\Debug\netcoreapp2.2\Snowmen.pdb
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\obj\Debug\netcoreapp2.2\Snowmen.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\obj\Debug\netcoreapp2.2\Snowmen.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\obj\Debug\netcoreapp2.2\Snowmen.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\obj\Debug\netcoreapp2.2\Snowmen.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\obj\Debug\netcoreapp2.2\Snowmen.dll
+C:\Users\Hristo\source\repos\ExamPrep1\Snowmen\obj\Debug\netcoreapp2.2\Snowmen.pdb

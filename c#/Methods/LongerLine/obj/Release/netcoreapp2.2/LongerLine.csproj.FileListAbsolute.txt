@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\LongerLine\bin\Release\netcoreapp2.2\LongerLine.deps.json
+C:\Users\Hristo\source\repos\Methods\LongerLine\bin\Release\netcoreapp2.2\LongerLine.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\LongerLine\bin\Release\netcoreapp2.2\LongerLine.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\LongerLine\bin\Release\netcoreapp2.2\LongerLine.dll
+C:\Users\Hristo\source\repos\Methods\LongerLine\bin\Release\netcoreapp2.2\LongerLine.pdb
+C:\Users\Hristo\source\repos\Methods\LongerLine\obj\Release\netcoreapp2.2\LongerLine.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Methods\LongerLine\obj\Release\netcoreapp2.2\LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\LongerLine\obj\Release\netcoreapp2.2\LongerLine.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\LongerLine\obj\Release\netcoreapp2.2\LongerLine.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\LongerLine\obj\Release\netcoreapp2.2\LongerLine.dll
+C:\Users\Hristo\source\repos\Methods\LongerLine\obj\Release\netcoreapp2.2\LongerLine.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\MaxMethod\bin\Release\netcoreapp2.2\MaxMethod.deps.json
+C:\Users\Hristo\source\repos\Methods\MaxMethod\bin\Release\netcoreapp2.2\MaxMethod.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\MaxMethod\bin\Release\netcoreapp2.2\MaxMethod.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\MaxMethod\bin\Release\netcoreapp2.2\MaxMethod.dll
+C:\Users\Hristo\source\repos\Methods\MaxMethod\bin\Release\netcoreapp2.2\MaxMethod.pdb
+C:\Users\Hristo\source\repos\Methods\MaxMethod\obj\Release\netcoreapp2.2\MaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\MaxMethod\obj\Release\netcoreapp2.2\MaxMethod.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\MaxMethod\obj\Release\netcoreapp2.2\MaxMethod.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\MaxMethod\obj\Release\netcoreapp2.2\MaxMethod.dll
+C:\Users\Hristo\source\repos\Methods\MaxMethod\obj\Release\netcoreapp2.2\MaxMethod.pdb
+C:\Users\Hristo\source\repos\Methods\MaxMethod\obj\Release\netcoreapp2.2\MaxMethod.csprojAssemblyReference.cache

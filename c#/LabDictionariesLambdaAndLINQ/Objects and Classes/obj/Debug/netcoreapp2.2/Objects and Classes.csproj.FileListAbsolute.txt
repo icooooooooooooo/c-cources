@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\bin\Debug\netcoreapp2.2\Objects and Classes.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\bin\Debug\netcoreapp2.2\Objects and Classes.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\bin\Debug\netcoreapp2.2\Objects and Classes.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\bin\Debug\netcoreapp2.2\Objects and Classes.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\bin\Debug\netcoreapp2.2\Objects and Classes.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\obj\Debug\netcoreapp2.2\Objects and Classes.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\obj\Debug\netcoreapp2.2\Objects and Classes.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\obj\Debug\netcoreapp2.2\Objects and Classes.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\obj\Debug\netcoreapp2.2\Objects and Classes.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Objects and Classes\obj\Debug\netcoreapp2.2\Objects and Classes.pdb

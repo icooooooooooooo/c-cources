@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\obj\Debug\netcoreapp2.2\TrippleOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\obj\Debug\netcoreapp2.2\TrippleOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\obj\Debug\netcoreapp2.2\TrippleOfLatinLetters.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\bin\Debug\netcoreapp2.2\TrippleOfLatinLetters.deps.json
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\bin\Debug\netcoreapp2.2\TrippleOfLatinLetters.runtimeconfig.json
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\bin\Debug\netcoreapp2.2\TrippleOfLatinLetters.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\bin\Debug\netcoreapp2.2\TrippleOfLatinLetters.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\bin\Debug\netcoreapp2.2\TrippleOfLatinLetters.pdb
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\obj\Debug\netcoreapp2.2\TrippleOfLatinLetters.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\obj\Debug\netcoreapp2.2\TrippleOfLatinLetters.pdb
+C:\Users\Hristo\source\repos\ДатаТъпес\TrippleOfLatinLetters\obj\Debug\netcoreapp2.2\TrippleOfLatinLetters.csprojAssemblyReference.cache

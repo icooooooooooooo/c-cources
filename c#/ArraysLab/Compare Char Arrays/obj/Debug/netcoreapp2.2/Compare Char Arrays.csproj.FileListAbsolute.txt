@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\bin\Debug\netcoreapp2.2\Compare Char Arrays.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\bin\Debug\netcoreapp2.2\Compare Char Arrays.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\bin\Debug\netcoreapp2.2\Compare Char Arrays.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\bin\Debug\netcoreapp2.2\Compare Char Arrays.dll
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\bin\Debug\netcoreapp2.2\Compare Char Arrays.pdb
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\obj\Debug\netcoreapp2.2\Compare Char Arrays.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\obj\Debug\netcoreapp2.2\Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\obj\Debug\netcoreapp2.2\Compare Char Arrays.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\obj\Debug\netcoreapp2.2\Compare Char Arrays.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\obj\Debug\netcoreapp2.2\Compare Char Arrays.dll
+C:\Users\Hristo\source\repos\ArraysLab\Compare Char Arrays\obj\Debug\netcoreapp2.2\Compare Char Arrays.pdb

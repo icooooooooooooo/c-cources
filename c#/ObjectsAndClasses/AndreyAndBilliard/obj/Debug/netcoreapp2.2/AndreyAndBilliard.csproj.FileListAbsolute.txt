@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\netcoreapp2.2\AndreyAndBilliard.deps.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\netcoreapp2.2\AndreyAndBilliard.runtimeconfig.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\netcoreapp2.2\AndreyAndBilliard.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\netcoreapp2.2\AndreyAndBilliard.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\netcoreapp2.2\AndreyAndBilliard.pdb
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\netcoreapp2.2\AndreyAndBilliard.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\netcoreapp2.2\AndreyAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\netcoreapp2.2\AndreyAndBilliard.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\netcoreapp2.2\AndreyAndBilliard.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\netcoreapp2.2\AndreyAndBilliard.dll
+C:\Users\Hristo\source\repos\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\netcoreapp2.2\AndreyAndBilliard.pdb

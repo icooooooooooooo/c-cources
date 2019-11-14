@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.deps.json
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.dll
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.pdb
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.dll
+C:\Users\Hristo\source\repos\Lists\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.pdb

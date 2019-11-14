@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\bin\Release\netcoreapp2.2\GreaterPfTwoValues.deps.json
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\bin\Release\netcoreapp2.2\GreaterPfTwoValues.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\bin\Release\netcoreapp2.2\GreaterPfTwoValues.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\bin\Release\netcoreapp2.2\GreaterPfTwoValues.dll
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\bin\Release\netcoreapp2.2\GreaterPfTwoValues.pdb
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\obj\Release\netcoreapp2.2\GreaterPfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\obj\Release\netcoreapp2.2\GreaterPfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\obj\Release\netcoreapp2.2\GreaterPfTwoValues.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\obj\Release\netcoreapp2.2\GreaterPfTwoValues.dll
+C:\Users\Hristo\source\repos\Methods\GreaterPfTwoValues\obj\Release\netcoreapp2.2\GreaterPfTwoValues.pdb

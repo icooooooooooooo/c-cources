@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\bin\Debug\netcoreapp2.2\CenturiesToMinutes.deps.json
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\bin\Debug\netcoreapp2.2\CenturiesToMinutes.runtimeconfig.json
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\bin\Debug\netcoreapp2.2\CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\bin\Debug\netcoreapp2.2\CenturiesToMinutes.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\bin\Debug\netcoreapp2.2\CenturiesToMinutes.pdb
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\obj\Debug\netcoreapp2.2\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\obj\Debug\netcoreapp2.2\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\obj\Debug\netcoreapp2.2\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\obj\Debug\netcoreapp2.2\CenturiesToMinutes.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\ДатаТъпес\obj\Debug\netcoreapp2.2\CenturiesToMinutes.pdb

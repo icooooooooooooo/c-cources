@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\bin\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.deps.json
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\bin\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.runtimeconfig.json
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\bin\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\bin\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.dll
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\bin\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.pdb
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\obj\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\obj\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\obj\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\obj\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.dll
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\obj\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.pdb
+C:\Users\Hristo\source\repos\Regular Expressions\2. Extract Sentences by Keyword\obj\Debug\netcoreapp2.2\2. Extract Sentences by Keyword.csprojAssemblyReference.cache

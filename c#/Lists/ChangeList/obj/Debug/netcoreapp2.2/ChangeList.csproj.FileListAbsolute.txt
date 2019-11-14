@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.deps.json
+C:\Users\Hristo\source\repos\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.runtimeconfig.json
+C:\Users\Hristo\source\repos\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.dll
+C:\Users\Hristo\source\repos\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.pdb
+C:\Users\Hristo\source\repos\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.dll
+C:\Users\Hristo\source\repos\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.pdb

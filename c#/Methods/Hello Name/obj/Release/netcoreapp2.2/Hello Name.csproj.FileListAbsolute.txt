@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\Methods\Hello Name\obj\Release\netcoreapp2.2\Hello Name.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\Hello Name\obj\Release\netcoreapp2.2\Hello Name.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\Hello Name\obj\Release\netcoreapp2.2\Hello Name.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\Hello Name\bin\Release\netcoreapp2.2\Hello Name.deps.json
+C:\Users\Hristo\source\repos\Methods\Hello Name\bin\Release\netcoreapp2.2\Hello Name.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\Hello Name\bin\Release\netcoreapp2.2\Hello Name.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\Hello Name\bin\Release\netcoreapp2.2\Hello Name.dll
+C:\Users\Hristo\source\repos\Methods\Hello Name\bin\Release\netcoreapp2.2\Hello Name.pdb
+C:\Users\Hristo\source\repos\Methods\Hello Name\obj\Release\netcoreapp2.2\Hello Name.dll
+C:\Users\Hristo\source\repos\Methods\Hello Name\obj\Release\netcoreapp2.2\Hello Name.pdb

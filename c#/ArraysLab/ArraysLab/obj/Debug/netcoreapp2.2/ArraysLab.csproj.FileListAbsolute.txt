@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.2\ArraysLab.deps.json
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.2\ArraysLab.runtimeconfig.json
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.2\ArraysLab.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.2\ArraysLab.dll
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.2\ArraysLab.pdb
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.2\ArraysLab.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.2\ArraysLab.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.2\ArraysLab.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.2\ArraysLab.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.2\ArraysLab.dll
+C:\Users\Hristo\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.2\ArraysLab.pdb

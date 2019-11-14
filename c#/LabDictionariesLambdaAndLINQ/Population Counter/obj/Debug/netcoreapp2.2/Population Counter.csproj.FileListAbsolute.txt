@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\bin\Debug\netcoreapp2.2\Population Counter.deps.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\bin\Debug\netcoreapp2.2\Population Counter.runtimeconfig.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\bin\Debug\netcoreapp2.2\Population Counter.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\bin\Debug\netcoreapp2.2\Population Counter.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\bin\Debug\netcoreapp2.2\Population Counter.pdb
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\obj\Debug\netcoreapp2.2\Population Counter.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\obj\Debug\netcoreapp2.2\Population Counter.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\obj\Debug\netcoreapp2.2\Population Counter.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\obj\Debug\netcoreapp2.2\Population Counter.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\obj\Debug\netcoreapp2.2\Population Counter.dll
+C:\Users\Hristo\source\repos\LabDictionariesLambdaAndLINQ\Population Counter\obj\Debug\netcoreapp2.2\Population Counter.pdb

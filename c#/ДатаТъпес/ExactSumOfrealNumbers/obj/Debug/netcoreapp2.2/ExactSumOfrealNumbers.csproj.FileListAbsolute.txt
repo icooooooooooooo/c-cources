@@ -1,0 +1,10 @@
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\bin\Debug\netcoreapp2.2\ExactSumOfrealNumbers.deps.json
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\bin\Debug\netcoreapp2.2\ExactSumOfrealNumbers.runtimeconfig.json
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\bin\Debug\netcoreapp2.2\ExactSumOfrealNumbers.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\bin\Debug\netcoreapp2.2\ExactSumOfrealNumbers.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\bin\Debug\netcoreapp2.2\ExactSumOfrealNumbers.pdb
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\obj\Debug\netcoreapp2.2\ExactSumOfrealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\obj\Debug\netcoreapp2.2\ExactSumOfrealNumbers.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\obj\Debug\netcoreapp2.2\ExactSumOfrealNumbers.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\obj\Debug\netcoreapp2.2\ExactSumOfrealNumbers.dll
+C:\Users\Hristo\source\repos\ДатаТъпес\ExactSumOfrealNumbers\obj\Debug\netcoreapp2.2\ExactSumOfrealNumbers.pdb

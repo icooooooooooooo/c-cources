@@ -1,0 +1,11 @@
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\obj\Release\netcoreapp2.2\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\obj\Release\netcoreapp2.2\FibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\obj\Release\netcoreapp2.2\FibonacciNumbers.AssemblyInfo.cs
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\obj\Release\netcoreapp2.2\FibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\bin\Release\netcoreapp2.2\FibonacciNumbers.deps.json
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\bin\Release\netcoreapp2.2\FibonacciNumbers.runtimeconfig.json
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\bin\Release\netcoreapp2.2\FibonacciNumbers.runtimeconfig.dev.json
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\bin\Release\netcoreapp2.2\FibonacciNumbers.dll
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\bin\Release\netcoreapp2.2\FibonacciNumbers.pdb
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\obj\Release\netcoreapp2.2\FibonacciNumbers.dll
+C:\Users\Hristo\source\repos\Methods\FibonacciNumbers\obj\Release\netcoreapp2.2\FibonacciNumbers.pdb
